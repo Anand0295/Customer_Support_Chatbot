@@ -5,7 +5,6 @@
 [![NLTK](https://img.shields.io/badge/NLTK-3.8+-orange.svg)](https://nltk.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Enterprise-grade conversational AI system designed for seamless customer service automation**
 
 ![Customer_Support_Chatbot DEMO](screenshot.png)
 
