@@ -60,7 +60,7 @@ pip package manager
 ### **Installation & Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/customer-support-chatbot.git
+git clone https://github.com/Anand0295/customer-support-chatbot.git
 cd customer-support-chatbot
 
 # Install dependencies
@@ -290,15 +290,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 **Author & Maintainer**
-
-**Anand Kamble**
-- 🌐 **Portfolio**: [anandkamble.dev](https://anandkamble.dev)
-- 💼 **LinkedIn**: [linkedin.com/in/anand-kamble](https://linkedin.com/in/anand-kamble)
-- 📧 **Email**: anand@example.com
-- 🐙 **GitHub**: [@Anand0295](https://github.com/Anand0295)
-
----
 
 ## 🙏 **Acknowledgments**
 
