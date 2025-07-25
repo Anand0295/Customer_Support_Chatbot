@@ -7,7 +7,7 @@
 
 > **Enterprise-grade conversational AI system designed for seamless customer service automation**
 
-![Chatbot](demo.png)
+![Customer_Support_Chatbot](demo.png)
 
 ---
 
