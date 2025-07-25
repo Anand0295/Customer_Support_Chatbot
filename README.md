@@ -15,7 +15,7 @@
 An intelligent customer support chatbot leveraging **Natural Language Processing** and **Machine Learning** to deliver human-like customer service experiences. Built with hybrid intelligence combining rule-based pattern matching and ML-powered intent classification for maximum accuracy and reliability.
 
 ### **🏆 Key Differentiators**
-- **Hybrid AI Architecture**: Rule-based + ML classification for 99% accuracy
+- **Hybrid AI Architecture**: Rule-based + ML classification for 90% accuracy
 - **Contextual Memory**: Remembers conversation context and order history
 - **Real-time Processing**: Sub-second response times with intelligent caching
 - **Enterprise-Ready**: Scalable architecture with session management
